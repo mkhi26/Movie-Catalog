@@ -1,0 +1,17 @@
+strict graph "" {
+	Categorias -- Acción;
+	Categorias -- Aventuras;
+	Categorias -- Bélicas;
+	Categorias -- Comedia;
+	Categorias -- "Dibujos Animados";
+	Categorias -- Dramáticas;
+	Acción -- "John Wick 2: un nuevo día para matar";
+	Acción -- "John Wick 3: Parabellum";
+	Acción -- "Otro día para matar";
+	Aventuras -- "Sonic la película";
+	Bélicas -- Fury;
+	Bélicas -- "Inglourious Basterds";
+	Comedia -- "La muerte de Stalin";
+	"Dibujos Animados" -- "Los Simpson, La Película";
+	Dramáticas -- "Los 8 más odiados";
+}

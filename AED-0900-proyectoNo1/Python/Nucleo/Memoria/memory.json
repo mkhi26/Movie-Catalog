@@ -1,0 +1,74 @@
+{
+    "0": {
+        "name": "La muerte de Stalin",
+        "time": "1:47:2",
+        "description": "La noche del 2 de marzo de 1953 el dictador sovi\u00e9tico I\u00f3sif Stalin vivi\u00f3 sus \u00faltimas horas. Tras su muerte, se produjo un caos en el que mediante manipulaciones, mentiras y traiciones, los miembros de la c\u00fapula del poder sovi\u00e9tico intentaron mejorar.",
+        "director": "Armando Iannucci",
+        "category": "Comedia",
+        "id": 0
+    },
+    "1": {
+        "name": "Sonic la pel\u00edcula",
+        "time": "1:40:33",
+        "description": "Sonic intenta navegar por las complejidades de la vida en la Tierra con su nuevo mejor amigo, un humano llamado Tom Wachowski. Pronto deben unir fuerzas para evitar que el malvado Dr. Robotnik capture a Sonic y use sus poderes para dominar el mundo.",
+        "director": "Jeff Flowler",
+        "category": "Aventuras",
+        "id": 1
+    },
+    "2": {
+        "name": "Fury",
+        "time": "2:15:33",
+        "description": "Durante la Segunda Guerra Mundial, un aguerrido sargento del ej\u00e9rcito encabeza el equipo de un tanque Sherman en una misi\u00f3n mortal detr\u00e1s de l\u00edneas enemigas para golpear el coraz\u00f3n de la Alemania nazi.",
+        "director": "David Ayer",
+        "category": "B\u00e9licas",
+        "id": 2
+    },
+    "3": {
+        "name": "Inglourious Basterds",
+        "time": "2:33:33",
+        "description": "Es el primer a\u00f1o de la ocupaci\u00f3n alemana de Francia. El oficial aliado, teniente Aldo Raine, ensambla un equipo de soldados jud\u00edos para cometer actos violentos en contra de los nazis, incluyendo la toma de cabelleras. \u00c9l y sus hombres unen fuerzas con Bridget von Hammersmark, una actriz alemana y agente encubierto, para derrocar a los l\u00edderes del Tercer Reich. Sus destinos convergen con la due\u00f1a de teatro Shosanna Dreyfus, quien busca vengar la ejecuci\u00f3n de su familia.",
+        "director": "Quentin Tarantino",
+        "category": "B\u00e9licas",
+        "id": 3
+    },
+    "4": {
+        "name": "Los 8 m\u00e1s odiados",
+        "time": "3:7:33",
+        "description": "Wyoming, poco despu\u00e9s de acabar la Guerra Civil estadounidense. Un cazarrecompensas, su preso, otro cazarrecompensas y un supuesto sheriff quedan atrapados junto a cuatro desconocidos en una fonda durante una tormenta de nieve. Entre los ocho individuos hay viejas cuentas pendientes que saldar, y probablemente cuando pase la tormenta no todos saldr\u00e1n con vida del edificio.",
+        "director": "Quentin Tarantino",
+        "category": "Dram\u00e1ticas",
+        "id": 4
+    },
+    "5": {
+        "name": "Los Simpson, La Pel\u00edcula",
+        "time": "1:28:31",
+        "description": "La combinaci\u00f3n de Homero, su nuevo puerco mascota, y un silo lleno de excremento podr\u00edan provocar un desastre que amenace no s\u00f3lo a Springfield, sino al mundo entero. Una muchedumbre enojada llega a la casa de los Simpson y divide a la familia. Con el destino de la Tierra en juego, Homero se prepara para intentar redimirse con la intenci\u00f3n de salvar al mundo y ganarse el perd\u00f3n de Marge.",
+        "director": "David Silverman",
+        "category": "Dibujos Animados",
+        "id": 5
+    },
+    "6": {
+        "name": "Otro d\u00eda para matar",
+        "time": "1:47:31",
+        "description": "John Wick, un exasesino a sueldo, se enfrenta al mafioso Viggo Tarazov, quien ofrece una recompensa a aquel que logre acabar con la vida de Wick.",
+        "director": "Chad Stahelski",
+        "category": "Acci\u00f3n",
+        "id": 6
+    },
+    "7": {
+        "name": "John Wick 2: un nuevo d\u00eda para matar",
+        "time": "2:2:2",
+        "description": "El legendario sicario John Wick abandona su retiro cuando, debido a un pacto de sangre que le vincula a un colega, se ve obligado a viajar a Roma para enfrentarse a los asesinos m\u00e1s peligrosos del mundo y aniquilar a una organizaci\u00f3n secreta.",
+        "director": "Chad Stahelski",
+        "category": "Acci\u00f3n",
+        "id": 7
+    },
+    "8": {
+        "name": "John Wick 3: Parabellum",
+        "time": "2:10:21",
+        "description": "John Wick regresa de nuevo pero con una recompensa sobre su cabeza que persigue unos mercenarios. Tras asesinar a uno de los miembros de su gremio, Wick es expulsado y se convierte en el foco de atenci\u00f3n de todos los sicarios de la organizaci\u00f3n.",
+        "director": "Chad Stahelski",
+        "category": "Acci\u00f3n",
+        "id": 8
+    }
+}

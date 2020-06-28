@@ -1,0 +1,14 @@
+strict graph "" {
+	"1:47:2 | La muerte de Stalin" -- "1:40:33 | Sonic la película";
+	"1:47:2 | La muerte de Stalin" -- "2:15:33 | Fury";
+	"1:40:33 | Sonic la película" -- "1:28:31 |
+Los Simpson, La Película";
+	"2:15:33 | Fury" -- "1:47:31 | Otro día para matar";
+	"2:15:33 | Fury" -- "2:33:33 | Inglourious Basterds";
+	"1:47:31 | Otro día para matar" -- "2:2:2 |
+John Wick 2: un nuevo día para matar";
+	"2:33:33 | Inglourious Basterds" -- "3:7:33 | Los 8 más odiados";
+	"2:2:2 |
+John Wick 2: un nuevo día para matar" -- "2:10:21 |
+John Wick 3: Parabellum";
+}
